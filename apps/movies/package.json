@@ -17,6 +17,7 @@
     "react-scripts": "5.0.1",
     "tsconfig": "*",
     "typescript": "^4.9.5",
+    "card": "*",
     "ui": "*",
     "web-vitals": "^2.1.4"
   },
