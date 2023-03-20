@@ -1,7 +1,7 @@
 import React from 'react';
 import { AppShell } from 'ui';
-import { MoviesContent } from 'movies-content';
-import { PlaylistContent } from 'playlist-content';
+import MoviesContent from './MoviesContent';
+import PlaylistContent from './PlaylistContent';
 
 function App() {
   return (
